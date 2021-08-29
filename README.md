@@ -26,13 +26,7 @@ This page I documented the process I went through to learn how to call [GraphQL]
 
 **Technology :** React.js
 
-**Package :** fastify, fastify-gql,
-#
-fastify-static, graphql-hooks, graphql-hooks-memcache
-
-,
-#
-graphql-hooks-ssr, isomorphic-unfetch
+**Package :** fastify, fastify-gql, fastify-static, graphql-hooks, graphql-hooks-memcache, graphql-hooks-ssr, isomorphic-unfetch
 
 # Using a GraphQL API in React
 
