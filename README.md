@@ -10,6 +10,8 @@ This page I documented the process I went through to learn how to call [GraphQL]
 
 **Github Repo:** [https://github.com/jdretz/rapidapi-display-graphql-data-react](https://github.com/jdretz/rapidapi-display-graphql-data-react)
 
+![Star](https://img.shields.io/github/stars/jdretz/rapidapi-display-graphql-data-react)
+
 **Technology :** Next.js
 
 **Package :** next, axios
@@ -19,6 +21,8 @@ This page I documented the process I went through to learn how to call [GraphQL]
 **Description Link :** [https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/](https://www.nearform.com/blog/how-to-use-graphql-in-react-using-hooks/)
 
 **Github Repo:** [https://github.com/nearform/graphql-hooks-workshop](https://github.com/nearform/graphql-hooks-workshop)
+
+![Star](https://img.shields.io/github/stars/nearform/graphql-hooks-workshop)
 
 **Technology :** React.js
 
@@ -60,6 +64,8 @@ graphql-hooks-ssr, isomorphic-unfetch
 
 **Github Repo:** [https://github.com/ebenezerdon/react\_graphql](https://github.com/ebenezerdon/react_graphql)
 
+![Star](https://img.shields.io/github/stars/ebenezerdon/react_graphql)
+
 **Technology :** React
 
 **Package :** apollo-boost, graphql, react-apollo
@@ -96,6 +102,8 @@ graphql-hooks-ssr, isomorphic-unfetch
 
 **Github Repo:** [https://github.com/the-road-to-graphql/react-graphql-github-vanilla](https://github.com/the-road-to-graphql/react-graphql-github-vanilla)
 
+![Star](https://img.shields.io/github/stars/the-road-to-graphql/react-graphql-github-vanilla)
+
 **Technology :** React
 
 **Package :** axios
@@ -110,6 +118,8 @@ graphql-hooks-ssr, isomorphic-unfetch
 
 **Github Repo:** [https://github.com/the-road-to-graphql/react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo)
 
+![Star](https://img.shields.io/github/stars/the-road-to-graphql/react-graphql-github-apollo)
+
 **Technology :** React
 
 **Package :** apollo-cache-inmemory, apollo-client, apollo-link, apollo-link-error, apollo-link-http, graphql, graphql-tag, react-apollo
@@ -117,8 +127,6 @@ graphql-hooks-ssr, isomorphic-unfetch
 **GraphQL endpoint :** [https://api.github.com/graphql](https://api.github.com/graphql)
 
 **Rank :** 5
-
-**Star :** 1.5 k
 
 # **Rely Step-by-step Guide**
 
@@ -134,13 +142,13 @@ graphql-hooks-ssr, isomorphic-unfetch
 
 **Rank :** 6
 
-**Star :**
-
 # **An intro to Apollo GraphQL with React Hooks and Context API**
 
 **Description Link :** [https://dev.to/rajvirtual/an-intro-to-apollo-graphql-with-react-hooks-and-context-api-1gb3](https://dev.to/rajvirtual/an-intro-to-apollo-graphql-with-react-hooks-and-context-api-1gb3)
 
 **Github Repo:** [https://github.com/rajvirtual/react-apollo-graphql-hooks](https://github.com/rajvirtual/react-apollo-graphql-hooks)
+
+![Star](https://img.shields.io/github/stars/rajvirtual/react-apollo-graphql-hooks)
 
 **Technology :** React
 
@@ -150,4 +158,3 @@ graphql-hooks-ssr, isomorphic-unfetch
 
 **Rank :** 7
 
-**Star :** 4
